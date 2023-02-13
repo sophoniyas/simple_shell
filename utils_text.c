@@ -2,9 +2,7 @@
 
 /**
  * _strlen - Return the length of a string
- *
  * @msg: String to calculate length
- *
  * Return: Length of the string
  **/
 int _strlen(char *msg)
@@ -41,10 +39,8 @@ char *_strcat(char *dest, char *src)
 
 /**
  * _strcpy - Copy a string to another
- *
  * @dest: Destination copy
  * @src: Source for copy
- *
  * Return: Return the value of dest
  */
 char *_strcpy(char *dest, char *src)
