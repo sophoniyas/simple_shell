@@ -4,7 +4,6 @@
 
 /**
  * execute - Execute a command in other process
- *
  * @command: Command to execute
  * @arguments: Arguments of the @command
  * @info: General info about the shell
