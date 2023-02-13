@@ -29,7 +29,7 @@ char *which(char *filename, general_t *info);
 void is_current_path(char *path, general_t *info);
 void get_full_env(void);
 
-/* execute.c */
+/*...execute.c...*/
 void execute(char *commands, char **arguments, general_t *info, char *buff);
 int current_directory(char *cmd, char **arguments, char *buff,
 		general_t *info);
