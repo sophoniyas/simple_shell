@@ -6,7 +6,6 @@
 
 /**
  * analyze - Analyze	the arguments
- *
  * @arguments: Commands and arguments to execute
  * @info: General information about the shell
  * @buff: Line readed
