@@ -24,10 +24,8 @@ int builtins(general_t *info, char **arguments)
 /**
  * check_builtin - Check if the actual command is a builtin_t
  * or not
- *
  * @info: General information about the shell
  * @arguments: Arguments of the command
- *
  * Return: If the command is an actual builtin, return _TRUE
  * if not _FALSE
  **/
