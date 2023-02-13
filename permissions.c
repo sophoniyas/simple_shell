@@ -4,9 +4,7 @@
 /**
  * is_executable - Check if a filename have permissions
  * for run
- *
  * @filename: Filename to check
- *
  * Return: On success, PERMISSIONS
  * On error, NON_PERMISSIONS
  **/
