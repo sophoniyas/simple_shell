@@ -3,9 +3,7 @@
 
 /**
  * _putchar - Print a character to STDOUT
- *
  * @c: Character to print
- *
  * Return: On success 1
  * On error -1
  **/
@@ -16,9 +14,7 @@ int _putchar(char c)
 
 /**
  * print - Print a message to STDOUT
- *
  * @msg: Message to print
- *
  * Return: On success number of bytes printed
  * On errror -1, and set the error
  **/
