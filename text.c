@@ -5,7 +5,6 @@
 
 /**
  * prompt - Print the prompt
- *
  * @info: Struct of general information
  **/
 void prompt(general_t *info)
@@ -18,7 +17,6 @@ void prompt(general_t *info)
 
 /**
  * read_prompt - Read lines in the prompt
- *
  * Return: Buffer readed or NULL if EOF was found
  **/
 char *read_prompt()
@@ -42,9 +40,7 @@ char *read_prompt()
 
 /**
  * start_prompt - Loop reading text
- *
  * @info: Struct of general information
- *
  * Return: Buffer readed or NULL if EOF was found
  **/
 void start_prompt(general_t *info)
