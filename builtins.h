@@ -6,7 +6,7 @@
 #include "memory.h"
 #include "commands.h"
 
-/* builtins.c */
+/*...builtins.c...*/
 int builtins(general_t *info, char **arguments);
 int check_builtin(general_t *info, char **arguments);
 
