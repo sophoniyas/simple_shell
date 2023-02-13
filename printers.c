@@ -18,13 +18,11 @@ int _putchar_to_fd(char c, int fd)
 	return (write(fd, &c, 1));
 }
 
-
 /**
  * print_to_fd - Print a string
  *
  * @msg: Strin to print in the fd specified
  * @fd: File descriptor to print
- *
  * Return: On success numbers of bytes printed.
  * On error, -1 is returned, and errno is set appropriately.
  **/
